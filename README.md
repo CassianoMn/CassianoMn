@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou o Cassiano! 👋</h1>
-<h3 align="center">Um Estudante de Sistemas de Informação, Entusiasta de Desenvolvimento FullStack, do Brasil 🇧🇷</h3>
+<h3 align="center">Um Estudante de Sistemas de Informação e entusiasta de Desenvolvimento FullStack, do Brasil 🇧🇷</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CassianoMn&label=Profile%20views&color=0e75b6&style=flat" alt="visualizações do perfil" /> </p>
 
