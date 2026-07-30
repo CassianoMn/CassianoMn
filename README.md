@@ -74,12 +74,6 @@
 </p>
 <br>
 
-<h3 align="left">Minhas Estatísticas no GitHub:</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CassianoMn&show_icons=true&locale=pt-br&theme=dracula" alt="Estatísticas do GitHub de Cassiano" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassianoMn&layout=compact&locale=pt-br&theme=dracula" alt="Linguagens mais usadas de Cassiano" />
-</p>
-
 <br>
 
 <h3 align="left">Projetos em Destaque:</h3>
