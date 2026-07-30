@@ -86,8 +86,10 @@
 
 | Projeto       | Descrição                               | Link                                    |
 |---------------|-----------------------------------------|-----------------------------------------|
+| **DesapegAuto** | **Plataforma moderna e intuitiva desenvolvida para facilitar a compra e venda de veículos. É direcionada para concessionárias que desejam anunciar seus veículos, conectando-se diretamente a consumidores de maneira fácil, segura e eficiente. A plataforma otimiza o gerenciamento de estoques, destaca ofertas e promove interatividade com os compradores.** | [**Ver Projeto**](https://github.com/CassianoMn/DesapegAuto)|
 | **ItaCeramica** | **Trata-se de um site de uma empresa fictícia "ItaCeramica", o qual mostra os itens a venda com descrições correspondentes e aba para contato. Feito a princípio com HTML e CSS** | [**Ver Projeto**](https://github.com/CassianoMn/ItaCeramica_Site) |
 | **Calculadora de Nota Média do Enem** | **Calculadora de Nota da Média ponderada do Enem, onde o usuário digita sua nota em cada área do conhecimento, juntamente com os pesos adotados na faculdade de interesse.** | [**Ver Projeto**](https://github.com/CassianoMn/Calculadora-de-Nota-Media-Enem)|
+
 
 <br>
 <hr>
