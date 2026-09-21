@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CassianoMn&label=Profile%20views&color=0e75b6&style=flat" alt="visualizações do perfil" /> </p>
 
-- 🔭 Atualmente estou trabalhando no **[OrganizAE](https://github.com/CassianoMn/OrganizAE)** (Sistema de Gestão Financeira Pessoal com IA) e na empresa Júnior **ItatechJr** como Estagiário.
+- 🔭 Atualmente estou trabalhando no **[RadarPeças](https://github.com/CassianoMn/RadarPecas)** (Plataforma de Geolocalização e Recomendação Inteligente para o Varejo de Motopeças) e na empresa Júnior **ItatechJr** como Estagiário.
 
 - 🌱 Estou aprimorando meus conhecimentos em **React, TypeScript, Firebase, C#, .NET 8 e Integrações com IA (Google Gemini, Ollama e OpenAI)**.
 
