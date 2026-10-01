@@ -10,9 +10,9 @@
 ### 👨‍💻 Sobre Mim
 
 - 🔭 **Projetos Atuais:**
+  - Atuando como desenvolvedor/estagiário na empresa júnior **ItatechJr**, contribuindo no desenvolvimento, manutenção evolutiva e testes do sistema **[BoraLá (Eventos)](https://github.com/MarcosDosea/Eventos)**.
   - Desenvolvendo o **[RadarPeças](https://github.com/CassianoMn/RadarPecas)** — Plataforma de geolocalização e recomendação inteligente para o varejo de motopeças (Trabalho de Conclusão de Curso - TCC em Sistemas de Informação na **UFS**).
   - Mantendo e evoluindo o **[OrganizAE](https://github.com/CassianoMn/OrganizAE)** — Sistema completo de gestão financeira com inteligência artificial (Google Gemini API e OCR).
-  - Atuando como desenvolvedor/estagiário na empresa júnior **ItatechJr**, contribuindo no desenvolvimento, manutenção evolutiva e testes do sistema **BoraLá (Eventos)**.
 
 - 🌱 **Foco de Aprofundamento:**
   - **Arquitetura de Software:** Clean Architecture, Arquitetura Hexagonal (Ports and Adapters), desacoplamento de domínio e padrões de projeto.
