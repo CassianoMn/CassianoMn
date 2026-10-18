@@ -16,7 +16,7 @@
 
 - 🌱 **Foco de Aprofundamento:**
   - **Arquitetura de Software:** Clean Architecture, Arquitetura Hexagonal (Ports and Adapters), desacoplamento de domínio e padrões de projeto.
-  - **Back-end & Testes:** C# / ASP.NET Core (.NET 8), Entity Framework Core, Web APIs RESTful e Testes Automatizados (xUnit / MSTest / TDD).
+  - **Back-end & Testes:** C# / ASP.NET Core (.NET 8), Node.js, Entity Framework Core, Web APIs RESTful, GraphQL e Testes Automatizados (MSTest / xUnit / TDD).
   - **Bancos de Dados & Geoespacial:** PostgreSQL com PostGIS (NetTopologySuite) e MySQL.
   - **Front-end Moderno:** React 19, TypeScript, Vite e Leaflet/OpenStreetMap.
   - **IA Aplicada:** Integração de LLMs (Google Gemini API), visão computacional/OCR e Firebase.
@@ -51,6 +51,12 @@
   </a>
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -122,7 +128,7 @@
 |:---|:---|:---|:---:|
 | **RadarPeças** | **Plataforma de geolocalização e recomendação inteligente para o varejo de motopeças** (TCC - UFS). Modelo *two-sided market* conectando motociclistas a oficinas e lojas físicas, com garagem virtual para compatibilidade técnica automatizada, busca geoespacial em tempo real por raio e painel do lojista. | C# / .NET 8, PostgreSQL + PostGIS, React 19, TypeScript, Vite, Leaflet, JWT | [**Ver Repositório**](https://github.com/CassianoMn/RadarPecas) |
 | **OrganizAE** | **Sistema completo de gestão financeira pessoal e familiar integrado com IA**. Conta com leitura e categorização de notas fiscais via OCR inteligente (Google Gemini API), controle de orçamentos, gráficos analíticos interativos e modo escuro. | React, TypeScript, Firebase (Auth/Firestore/Hosting), Google Gemini API | [**Ver Repositório**](https://github.com/CassianoMn/OrganizAE) \| [**Acessar App**](https://organizae-a9590.web.app) |
-| **DesapegAuto (Ports & Adapters)** | **Remodelação arquitetural do projeto original feito na disciplina de Engenharia de Software**. Reestruturação aplicando **Arquitetura Hexagonal (Ports & Adapters)** e princípios de **Clean Architecture**, desacoplando o núcleo de domínio do banco de dados e ORM. | C#, ASP.NET Core (.NET 8), EF Core, MySQL, Arquitetura Hexagonal, xUnit | [**Ver Repositório**](https://github.com/CassianoMn/DesapegAuto_Porters-and-Adapters) |
+| **TEES: DesapegAuto & Protocolos** | **Engenharia de Software Avançada (TEES - UFS)**: Remodelação arquitetural aplicando **Arquitetura Hexagonal (Ports & Adapters)** com desacoplamento estrito de domínio via portas primárias/secundárias (151 testes unitários), estudo comparativo com Clean Architecture, além de estudo prático comparativo de **APIs & Protocolos de Rede Social (REST/JSON vs. GraphQL)** sobre mesmo modelo de domínio com 20 testes automatizados. | C# (.NET 8), ASP.NET MVC, EF Core, Node.js, GraphQL, REST, MySQL, MSTest | [**Ver Repositório**](https://github.com/CassianoMn/tees-2026-2-unidade-1) |
 | **BoraLá (Eventos)** | **Sistema para gestão e controle de eventos e frequência**. Atuação pela empresa júnior **ItatechJr** com implementação de regras de negócio, resolução de issues de persistência e fluxo de dados, e criação de testes automatizados para controllers e serviços. | C#, ASP.NET Core MVC, Testes de Unidade (xUnit/MSTest), SQL | [**Ver Repositório**](https://github.com/MarcosDosea/Eventos) |
 | **GobirabaSystem** | **Sistema web para controle de estoque, entradas e saídas** da Panificação Gobiraba. Interface responsiva, modularização em JavaScript ES6, sanitização e segurança contra ataques XSS. | JavaScript (ES6 Modular), CSS3, HTML5, GitHub Pages | [**Ver Repositório**](https://github.com/CassianoMn/Gobiraba) \| [**Acessar App**](https://cassianomn.github.io/Gobiraba/index.html) |
 
