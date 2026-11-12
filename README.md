@@ -153,6 +153,15 @@
 
 <br>
 
+### 📊 Estatísticas & Percentual de Linguagens Utilizadas
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CassianoMn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CassianoMn&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
+</p>
+
+<br>
+
 ### 🚀 Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias | Links |
