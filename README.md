@@ -57,8 +57,6 @@
 <p align="left">
   <strong>⚡ Automação Low-Code & Integrações:</strong><br><br>
   <img src="https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" height="28"/>
-  <img src="https://img.shields.io/badge/Make-Integromat-6D28D9?style=for-the-badge&logo=make&logoColor=white" alt="Make" height="28"/>
-  <img src="https://img.shields.io/badge/Zapier-Integration-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" height="28"/>
   <img src="https://img.shields.io/badge/Webhooks-Event_Driven-0284C7?style=for-the-badge" alt="Webhooks" height="28"/>
   <img src="https://img.shields.io/badge/REST_APIs-Consumo_e_Criação-10B981?style=for-the-badge" alt="REST APIs" height="28"/>
 </p>
@@ -69,7 +67,6 @@
   <img src="https://img.shields.io/badge/v0.dev-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="v0" height="28"/>
   <img src="https://img.shields.io/badge/Bolt.new-FullStack_In_Browser-6366F1?style=for-the-badge" alt="Bolt" height="28"/>
   <img src="https://img.shields.io/badge/Replit-Prototipação-F26207?style=for-the-badge&logo=replit&logoColor=white" alt="Replit" height="28"/>
-  <img src="https://img.shields.io/badge/APIs_Leves-Sem_Backend_Profundo-3B82F6?style=for-the-badge" alt="APIs Leves" height="28"/>
 </p>
 
 <p align="left">
